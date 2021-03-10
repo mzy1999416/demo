@@ -1,0 +1,13 @@
+.Nav{
+    float:left;
+    height: 1050px;
+    background-color:rgb(89, 150, 240);
+    width:240px;
+   text-align:center;
+   color: white;
+
+}
+.content{
+  float:right;
+  width:1000px
+}
